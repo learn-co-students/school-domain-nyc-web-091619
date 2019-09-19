@@ -44,7 +44,8 @@ school.roster
 # => {9 => ["Zach Morris"]}
 ``` 
 
-**Hint:** If the roster hash starts off as being empty, how will you add key/value pairs to it, where the value is an array? Let's take a look at an example: 
+**Hint:** If the roster hash starts off as being empty, how will you add key/value pairs tster
+o it, where the value is an array? Let's take a look at an example: 
 
 ```ruby
 hash = {}
